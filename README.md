@@ -8,7 +8,7 @@ NOW
 
 BIO  
 ✈️ I'm currently working at Neocargo Freight Forwarders  
-⚙️ I use daily: c++, .net, js  
+⚙️ I use daily: c++, .net, js, c#, node.js 
 🎵 Former Audio and Mastering Engineer  
 🌍 I'm mostly active within the DSP and Audio Visual Coding community  
 🌱 Learning all about Open Source  
