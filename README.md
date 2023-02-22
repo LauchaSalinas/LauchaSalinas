@@ -14,4 +14,4 @@ BIO
 🌱 Learning all about Open Source  
 💬 Ping me about sound design software, electronics and embedded software  
 📫 Reach me: twitter.com/LauchaSalinas  
-👨🏻‍💻 ps: Next in line: Cibersecurity  
+👨🏻‍💻 ps: Next in line: Cybersecurity  
